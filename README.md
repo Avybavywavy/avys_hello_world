@@ -1,2 +1,2 @@
 # avys_hello_world
-get to know me. :P
+get to know me. 
