@@ -8,4 +8,4 @@ so I suppose that I was cut out for this. I also make music, I have always liked
 
 I enjoy learning in general so I've bounced around a lot of different hobbies, some lasted for a week other for months but for some reason my brain craves building knowledge in general. I've dabbled in speed solving rubick's cubes, skateboarding (wasn't very good at it), drawing (gave up when I realized it's actually boring asf if you actually wanna be good at it), music (one of my passions),programming (something I have learned to love the process of as well), photography, journaling, and philosophy.
 
-I've been hardcore learning to program recently, expect some projects in the future from me; or not, we shall see.
+Anyways this is a little hello world program written in C, The best language as we all know.
